@@ -90,5 +90,5 @@ cypress-qa-automation/
 O workflow do GitHub Actions executa a suíte Cypress automaticamente em cada `push` e `pull request`.
 
 ## Autor
-
+Ivan Ataide Barbosa
 Projeto desenvolvido para fins de estudo, prática e portfólio em QA Automation.
